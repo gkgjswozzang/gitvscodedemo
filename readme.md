@@ -1,3 +1,6 @@
 # Learning git in vscode
 
--second commitsss
+-second commit
+-aaa
+-bbb
+-bbbddd
